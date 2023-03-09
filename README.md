@@ -4,3 +4,4 @@
 - NIM : 21343052
 - Matakuliah : Perancangan dan Analisis Algoritma
 - Prodi : Informatika
+- Algoritma : Heapsort (Kelompok C)
